@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xml>
+    <users>
+        <email></email>
+        <login>admin</login>
+        <password>$2a$10$NBxlaEQFO/MVlYi3oLhQSuj/14aIQZwi6oZcMeQiFSYAvcNmG5mzW</password>
+        <phone></phone>
+        <role>ADMIN</role>
+    </users>
+    <users>
+        <email></email>
+        <login>user</login>
+        <password>$2a$10$itPUBNmyJB.WkJC9f3Tt/u5ItqT9/A5q6b9Kl9BY9Cco/GSPc.ZnC</password>
+        <phone></phone>
+        <role>USER</role>
+    </users>
+    <users>
+        <email></email>
+        <login>moderator</login>
+        <password>$2a$10$PXBCcHuoyQT5MAiOWPsWi.9TUhKbLjtlLvapQnyDImJeNIXFJvyq2</password>
+        <phone></phone>
+        <role>MODERATOR</role>
+    </users>
+</xml>
